@@ -29,7 +29,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/kamilrashidev/dev-bookmarks/tree/main/docs/:path',
       text: 'Edit this page on GitHub'
     }
   }
