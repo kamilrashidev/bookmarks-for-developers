@@ -43,7 +43,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/kamilrashidev/bookmarks-for-developers' }
     ],
     search: {
       options: {
@@ -112,7 +112,7 @@ export default defineConfig({
     },
     lastUpdated: true,
     editLink: {
-      pattern: 'https://github.com/kamilrashidev/dev-bookmarks/tree/main/docs/:path',
+      pattern: 'https://github.com/kamilrashidev/bookmarks-for-developers/tree/main/:path',
       text: 'Edit this page on GitHub'
     },
     outline: 'deep'
