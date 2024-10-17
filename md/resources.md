@@ -1,6 +1,6 @@
 ---
-title: 'Coding'
-description: 'Coding Bookmarks.'
+title: 'Resources'
+description: 'App Builders, No Code etc'
 ---
 <h1>{{$frontmatter.title}}</h1>
 {{$frontmatter.description}}
@@ -18,4 +18,10 @@ description: 'Coding Bookmarks.'
 
 ### Resources
 - [Awesome No Code/Low Code](https://github.com/kairichard/awesome-nocode-lowcode)
+
+## Books
+- [Auth0 Ebooks](https://auth0.com/resources/ebooks)
+
+## Text
+- [Typing.com](https://www.typing.com)
 

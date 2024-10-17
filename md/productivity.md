@@ -7,5 +7,9 @@ description: 'Shortcuts & Tools for your workflow.'
 
 
 ## Automation
-[Make](https://www.make.com/en)
+- [Make](https://www.make.com/en)
+
+
+## Time Management
+- [DeskTime](https://desktime.com)
 

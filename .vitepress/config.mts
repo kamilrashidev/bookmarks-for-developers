@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '🏠 Home', link: 'https://kamilrashid.dev/' },  
-      { text: '🔖 Bookmarks', link: 'https://bookmarks.kamilrashid.dev/' },  
+      { text: '✨ Bookmarks', link: 'https://bookmarks.kamilrashid.dev/' },  
     ],
 
     sidebar: [
@@ -46,8 +46,8 @@ export default defineConfig({
         link: '/md/ui-ux'
       },
       {
-        text: '💻 Coding',
-        link: '/md/coding'
+        text: '🚀 Resources',
+        link: '/md/resources'
       },
       {
         text: '🛠️ Softwares',
