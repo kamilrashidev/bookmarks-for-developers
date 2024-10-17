@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },  
+      { text: '🏠 Home', link: '/' },  
     ],
 
     sidebar: [
@@ -15,17 +15,17 @@ export default defineConfig({
         text: '📦 Javascript',
         collapsed: false,
         items: [
-          { text: 'General', link: '/md/javascript/' },
-          { text: 'NPM', link: '/md/javascript/npm' },
-          { text: 'React JS', link: '/md/javascript/reactjs' },
-          { text: 'React Native', link: '/md/javascript/react-native' },
+          { text: '📄 General', link: '/md/javascript/' },
+          { text: '📦 NPM', link: '/md/javascript/npm' },
+          { text: '⚛️ React JS', link: '/md/javascript/reactjs' },
+          { text: '📱 React Native', link: '/md/javascript/react-native' },
         ]
       },
       {
         text: '📦 Backend',
         collapsed: false,
         items: [
-          { text: 'Database', link: '/md/backend/database' },
+          { text: '🗄️ Database', link: '/md/backend/database' },
         ]
       },
       {
@@ -39,6 +39,18 @@ export default defineConfig({
       {
         text: '⏳ Productivity',
         link: '/md/productivity'
+      },
+      {
+        text: '🎨 UI-UX',
+        link: '/md/ui-ux'
+      },
+      {
+        text: '💻 Coding',
+        link: '/md/coding'
+      },
+      {
+        text: '🛠️ Softwares',
+        link: '/md/softwares'
       }
     ],
 

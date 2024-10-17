@@ -3,6 +3,8 @@
 ## Frameworks
 - [ReactJS](../javascript/reactjs)
 - [PreactJS](https://preactjs.com)
+- AstroJS
+  - [AstroJS Template](https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog)
 
 ## Runtime
 - Node.js
