@@ -8,6 +8,10 @@ description: 'App Builders, No Code etc'
 ## SSG's
 - [Quartz](https://quartz.jzhao.xyz) - Markdown content into fully functional websites
 
+## GIT
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [CodeTriage - Help Out Your Favorite Open Source Projects](https://www.codetriage.com/?language=JavaScript)
+
 ## No Code
 
 ### App Builders
