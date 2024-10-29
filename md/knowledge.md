@@ -13,6 +13,9 @@ description: "Tutorials, Practice, Blogs, Resources"
 
 ### Multi
 - [W3Schools](https://www.w3schools.com)
+- [geeksforgeeks](https://www.geeksforgeeks.org)
+- [programiz](https://www.programiz.com)
+- [scrimba](https://v2.scrimba.com/home)
 - ⭐ [Egghead.io](https://egghead.io)
 - [Javatpoint](https://www.javatpoint.com)
 - [Hackr.io](https://hackr.io)
@@ -38,6 +41,7 @@ description: "Tutorials, Practice, Blogs, Resources"
 - ⭐ [Fullstack Open](https://fullstackopen.com/en/)
 - ⭐ [Kirupa](https://www.kirupa.com)
 - ⭐ [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [samanthaming](https://www.samanthaming.com)
 - [JS Camp](https://www.jscamp.app/docs/javascript00)
 - [JavaScript Cheat Sheet](https://www.javascriptcheatsheet.org)
 - [CodeGuage](https://www.codeguage.com)
@@ -53,6 +57,25 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Tutorial Republic](https://www.tutorialrepublic.com)
 - [DOM Events](https://domevents.dev)
 - [HTML DOM](https://phuoc.ng/collection/html-dom/)
+- [masteringjs.io](https://masteringjs.io)
+- [dmitripavlutin](https://dmitripavlutin.com)
+
+### Python
+- [Python for Everybody - Interactive](https://runestone.academy/ns/books/published/py4e-int/index.html)
+
+### Regex
+- [regexlearn](https://regexlearn.com)
+- [regexone](https://regexone.com)
+- [Learn regex the easy way](https://github.com/ziishaned/learn-regex/blob/master/README.md)
+- [regex.sketchengine.eu](https://regex.sketchengine.eu/index.html)
+- [Regex in JS - how YOU can learn it and learn to like it](https://softchris.github.io/pages/javascript-regex.html#route-classifier)
+
+**Tools**
+- [regexr](https://regexr.com)
+- [regex101](https://regex101.com)
+
+### CheatSheets
+- [CheatSheets.zip](https://cheatsheets.zip) - No Ads / [2](https://quickref.me) - Ads
 
 **Books**
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -114,9 +137,11 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions?tab=readme-ov-file)
 - [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- [Great Frontend](https://www.greatfrontend.com)
+- ⭐ [Great Frontend](https://www.greatfrontend.com)
 - [Big Frontend Dev](https://bigfrontend.dev/)
 - [Frontend Lead](https://www.frontendlead.com)
+- [jscodechallenges.vercel.app](https://jscodechallenges.vercel.app/)
+- [brad traversy javascript challenges](https://www.inficourses.com/course/brad-traversy-javascript-challenges)
 - [Hyperskill](https://hyperskill.org)
 - [Codewars](https://www.codewars.com)
 - [Edabit](https://edabit.com)
@@ -142,3 +167,6 @@ description: "Tutorials, Practice, Blogs, Resources"
 ## Guide
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Roadmap.sh](https://roadmap.sh)
+
+## Algorighms
+- [What is Time Complexity](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)

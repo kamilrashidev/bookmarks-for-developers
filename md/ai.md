@@ -22,6 +22,9 @@
 ## Multi
 * [Artificial Studio Tools](https://www.artificialstudio.ai/tools)
 
+## Chat
+* [character.ai](https://character.ai)
+
 ## Tools
 * [lmarena.ai](https://lmarena.ai) - Compare AI Models
 * [OpenAI Translator](https://github.com/openai-translator/openai-translator) - OpenAI Translator

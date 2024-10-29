@@ -19,3 +19,9 @@
   - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
 - [tauri.app](https://tauri.app)
 - [neutralino.js.org](https://neutralino.js.org)
+
+## Utilities
+- [quokkajs](https://quokkajs.com)
+- [TypeScript Worksheet](https://marketplace.visualstudio.com/items?itemName=chwoerz.ts-worksheet)
+- [console-ninja](https://console-ninja.com/)
+- [caniuse.com](https://caniuse.com) - JS code browser compatibility check
