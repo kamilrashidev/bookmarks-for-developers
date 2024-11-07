@@ -32,6 +32,9 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Learn PHP](https://odan.github.io/learn-php/)
 - [PHP Tutorial](https://www.phptutorial.net/)
 
+**Tools**
+- https://windows.php.net/download
+
 ### JavaScript
 - ⭐ [JavaScript.info](https://javascript.info)
 - ⭐ [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -55,13 +58,50 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Javatpoint](https://www.javatpoint.com)
 - [Tutorials Point](https://www.tutorialspoint.com)
 - [Tutorial Republic](https://www.tutorialrepublic.com)
-- [DOM Events](https://domevents.dev)
-- [HTML DOM](https://phuoc.ng/collection/html-dom/)
 - [masteringjs.io](https://masteringjs.io)
 - [dmitripavlutin](https://dmitripavlutin.com)
+- https://webreference.com/javascript/
+- https://codesweetly.com/
+
+**JS DOM**
+- [DOM Events](https://domevents.dev)
+- [HTML DOM](https://phuoc.ng/collection/html-dom/)
+**JS DOM**
+- [DOM Events](https://domevents.dev)
+- [HTML DOM](https://phuoc.ng/collection/html-dom/)
+- [DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+- [Understanding the DOM](https://www.digitalocean.com/community/tutorial-series/understanding-the-dom-document-object-model)
+- [HTML DOM Introduction](https://www.codeguage.com/courses/js/html-dom-introduction)
+- [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
+- [W3Schools JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
+
+#### Typescript
+- [TypeScript Course by John Smilga](https://github.com/john-smilga/typescript-course/tree/main/01-typescript-tutorial)
+- [HTML DOM Collection by Phuoc](https://phuoc.ng/collection/html-dom/)
+- ⭐️ [TypeScript Tutorial](https://www.typescripttutorial.net)
+- [All Things TypeScript](https://www.allthingstypescript.dev)
+- [Scaler Topics: TypeScript](https://www.scaler.com/topics/typescript/)
+- [TypeScript Tutorial on TutorialsPoint](https://www.tutorialspoint.com/typescript/index.htm)
+- [TypeScript Tutorial on Javatpoint](https://www.javatpoint.com/typescript-tutorial)
 
 ### Python
 - [Python for Everybody - Interactive](https://runestone.academy/ns/books/published/py4e-int/index.html)
+- https://python101.pythonlibrary.org/index.html
+- [zotroneneis/magical_universe: Awesome Python features explained using the world of magic](https://github.com/zotroneneis/magical_universe)
+- [trekhleb/learn-python: 📚 Playground and cheatsheet for learning Python.](https://github.com/trekhleb/learn-python)
+- [Tanu-N-Prabhu/Python: This repository helps you understand python from the scratch.](https://github.com/Tanu-N-Prabhu/Python)
+- [Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge.](https://github.com/Asabeneh/30-Days-Of-Python) 
+- [Introduction · A Byte of Python](https://python.swaroopch.com/)
+- [Python Tutorials – Real Python](https://realpython.com/)
+- [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/python_book.html)
+- [zedr/clean-code-python: :bathtub: Clean Code concepts adapted for Python](https://github.com/zedr/clean-code-python)
+- [pipx](https://pipx.pypa.io/stable/)
+
+
+**Tools**
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python?tab=readme-ov-file)
+- [Textualize Rich](https://github.com/Textualize/rich)
 
 ### Regex
 - [regexlearn](https://regexlearn.com)
@@ -76,12 +116,19 @@ description: "Tutorials, Practice, Blogs, Resources"
 
 ### CheatSheets
 - [CheatSheets.zip](https://cheatsheets.zip) - No Ads / [2](https://quickref.me) - Ads
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Speedsheet](https://speedsheet.io)
+- [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+
+**NodeJS**
+- [text](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 **Books**
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### CSS, Grid & Flex
+- [CSS Diner](https://flukeout.github.io)
 - [CSS Animations](https://css-animations.io/)
 - [100 Days CSS](https://100dayscss.com/)
 - [CSS Challenges](https://css-challenges.com/)
@@ -155,11 +202,27 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Let Me Read](https://www.letmeread.net)
 - [Goal Kicker](https://goalkicker.com)
 - [Best Books](https://www.best-books.dev)
+- https://fmhy.net/devtools
 
 ## Blog / Podcasts / Talks
-- [freeCodeCamp](https://www.freecodecamp.org)
 - [DevTools Tips](https://devtoolstips.org/all/)
 - [DevTube](https://dev.tube)
+- [Flavio Copes](https://flaviocopes.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com)
+- [Tech Blogs](https://tech-blogs.dev)
+
+## News
+- [TechURLs](https://techurls.com)
+- [DevURLs](https://devurls.com)
+- [Indie Hackers](http://indiehackers.com)
+- [Daily.dev](https://daily.dev)
+- [freeCodeCamp](https://www.freecodecamp.org)
+- [Dev.to Blog](https://dev.to/t/blog)
+- [HackerTab](https://hackertab.dev)
+
+## Jobs
+- [Buddies Dev](https://buddies.dev)
 
 ## Resources
 - [Tech School](https://techschool.dev/en)
@@ -167,6 +230,7 @@ description: "Tutorials, Practice, Blogs, Resources"
 ## Guide
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Roadmap.sh](https://roadmap.sh)
+- [StackShare](https://stackshare.io)
 
 ## Algorighms
 - [What is Time Complexity](https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/)
