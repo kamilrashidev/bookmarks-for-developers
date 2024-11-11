@@ -93,7 +93,10 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Tanu-N-Prabhu/Python: This repository helps you understand python from the scratch.](https://github.com/Tanu-N-Prabhu/Python)
 - [Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge.](https://github.com/Asabeneh/30-Days-Of-Python) 
 - [Introduction · A Byte of Python](https://python.swaroopch.com/)
-- [Python Tutorials – Real Python](https://realpython.com/)
+- ⭐️ [Python Tutorials – Real Python](https://realpython.com/)
+- ⭐️ [pythoncheatsheet.org](https://www.pythoncheatsheet.org)
+- ⭐️ [python-engineer.com | Advanced Python](https://www.python-engineer.com/courses/advancedpython/01-lists/)
+- ⭐️ [khuyentran1401.github.io](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/Chapter1/string.html)
 - [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/python_book.html)
 - [zedr/clean-code-python: :bathtub: Clean Code concepts adapted for Python](https://github.com/zedr/clean-code-python)
 - [pipx](https://pipx.pypa.io/stable/)
@@ -172,8 +175,8 @@ description: "Tutorials, Practice, Blogs, Resources"
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## 🧑‍💻 Practice
-- ⭐ [Exercism](https://exercism.org/)
-- ⭐ [HackerRank](https://www.hackerrank.com/)
+- ⭐ [Exercism](https://exercism.org/) - PY / JS
+- ⭐ [HackerRank](https://www.hackerrank.com/) - PY
 - ⭐ [LeetCode](https://leetcode.com)
 - ⭐ [Hack The Box Academy](https://academy.hackthebox.com/)
 - ⭐ [Codecrafters](https://codecrafters.io)
